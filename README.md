@@ -5,7 +5,7 @@
 ![DBNiomic](DBNiomic.PNG)
 
 ### 2. Perhatikan gambar dibawah ini:
-![34Provinsi](34Provinsi.PNG)
+![34Provinsi](34Provinsi.png)
 ### a. Buatlah tabel dengan nama demography dengan jumlah 6 kolom sesuai dengan gambar diatas. Teman-teman bebas untuk berkreasi tentang tipe data dan ukuran kolom.
 ![TabelDemography](TabelDemography.PNG)
 
